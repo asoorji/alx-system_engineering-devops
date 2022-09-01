@@ -1,4 +1,5 @@
-SHELL PERMISSIONS SCRIPTS
+THIS IS THE SHELL PERMISSIONS SCRIPTS WRITTEN IN EACH FILE CHRONOLOGICALLY
+
 
 O. Create a script that switches the current user to the user betty.
 
